@@ -5,18 +5,18 @@ function startQuestions() {
   function answerYes() {
     document.getElementById("questions").style.display = "none";
       document.getElementById("que").style.display = "none";
-      document.getElementById("init").innerText = "YEY YEY 🎉🎉🎉";
+      document.getElementById("init").innerText = "YAYYAAYYAYAYAYAYAYAY 🎉🎉🎉";
     document.getElementById("message").style.display = "block";
-    document.getElementById("messageText").innerText = "I believe in love at first sight too! How about we go on a date and see if it's true?";
+    document.getElementById("messageText").innerText = "YAY I LOVE YOU SO MUCH MY PETTY PRINCESS :3";
     showConfetti()
 }
   
   function answerNo() {
     document.getElementById("questions").style.display = "none";
     document.getElementById("que").style.display = "none";
-    document.getElementById("init").innerText = "YEY YEY 🎉🎉🎉";
+    document.getElementById("init").innerText = "dont fucking ask me why but im lazy to do sad shit";
     document.getElementById("message").style.display = "block";
-    document.getElementById("messageText").innerText = "No worries, love takes time. But can we spend some time together and see if something beautiful blossoms?";
+    document.getElementById("messageText").innerText = "awwwwwhhhhhhhhh but i spent hours on this :(";
     showConfetti()
 
 }
